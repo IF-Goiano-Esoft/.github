@@ -16,4 +16,11 @@
 
 ### We will use software development techniques to create an application in the Dart language, using the Flutter framework. This development process will be carried out using the main techniques and methodologies commonly used in the software engineering industry. We will utilize agile development, Kanban, unit testing, among other practices.
 
+<br>
 
+## Colaboradores / Colaborators
+
+* [João Victor Rocha Vilela Godoi](https://github.com/Joao-Victor-RVG)
+* [Pedro Paulo Soares Rabelo](https://github.com/SwloBr)
+* [Pedro Naves Cavalcante](https://github.com/PedroNaves00)
+* [Arthur Rodrigues](https://github.com/ArthurRCastilho)
